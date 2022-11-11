@@ -1,0 +1,215 @@
+,Sample,Study,Site,First-level administrative division,Country,Lat,Long,Year,ENA,All samples same individual,Population,% callable,QC pass,Exclusion reason,Is returning traveller
+31,Colombia_30102100438-A,X0001-PV-MULTI-HUPALO2016,Tierralta,Colombia: Cordoba,Colombia,8.172777799999999,-76.059444,2013,"SRR1564963,SRR1568155","Colombia_30102100438-A,Colombia_30102100438-B",LAM,78.03,False,Lower_covered_duplicate,False
+32,Colombia_30102100438-B,X0001-PV-MULTI-HUPALO2016,Tierralta,Colombia: Cordoba,Colombia,8.172777799999999,-76.059444,2013,"SRR1564939,SRR1568227","Colombia_30102100438-A,Colombia_30102100438-B",LAM,78.18,True,Analysis_set,False
+35,Colombia_30102100441-A,X0001-PV-MULTI-HUPALO2016,Tierralta,Colombia: Cordoba,Colombia,8.172777799999999,-76.059444,2013,"SRR1565136,SRR1568159","Colombia_30102100441-A,Colombia_30102100441-B",LAM,78.68,False,Lower_covered_duplicate,False
+36,Colombia_30102100441-B,X0001-PV-MULTI-HUPALO2016,Tierralta,Colombia: Cordoba,Colombia,8.172777799999999,-76.059444,2013,"SRR1564989,SRR1567977","Colombia_30102100441-A,Colombia_30102100441-B",LAM,79.51,True,Analysis_set,False
+37,Colombia_30102100443-A,X0001-PV-MULTI-HUPALO2016,Tierralta,Colombia: Cordoba,Colombia,8.172777799999999,-76.059444,2013,"SRR1562971,SRR1564927","Colombia_30102100443-A,Colombia_30102100443-B",LAM,78.26,False,Lower_covered_duplicate,False
+38,Colombia_30102100443-B,X0001-PV-MULTI-HUPALO2016,Tierralta,Colombia: Cordoba,Colombia,8.172777799999999,-76.059444,2013,"SRR1562555,SRR1564990","Colombia_30102100443-A,Colombia_30102100443-B",LAM,81.92,True,Analysis_set,False
+211,PD0607-C,1154-PV-TH-PRICE,Tak,Thailand: Tak,Thailand,16.5,98.7,2001,ERR337603,"PD0607-C,PD0623-C",WSEA,89.89,True,Analysis_set,False
+224,PD0620-C,1154-PV-TH-PRICE,Wangpha,Thailand: Tak,Thailand,16.835,98.538,2012,ERR337607,"PD0620-C,PD0677-C",WSEA,87.89,True,Analysis_set,False
+225,PD0622-C,1154-PV-TH-PRICE,Wangpha,Thailand: Tak,Thailand,16.835,98.538,2012,ERR337612,"PD0622-C,PD0622-Cx",WSEA,89.01,False,Unverified_metadata,False
+226,PD0622-Cx,1154-PV-TH-PRICE,Wangpha,Thailand: Tak,Thailand,16.835,98.538,2012,ERR527357,"PD0622-C,PD0622-Cx",WSEA,90.05,False,Unverified_metadata,False
+227,PD0623-C,1154-PV-TH-PRICE,Tak,Thailand: Tak,Thailand,16.5,98.7,2001,ERR337615,"PD0607-C,PD0623-C",WSEA,89.85,False,Lower_covered_duplicate,False
+236,PD0677-C,1154-PV-TH-PRICE,Wangpha,Thailand: Tak,Thailand,16.835,98.538,2012,ERR527354,"PD0620-C,PD0677-C",WSEA,87.64,False,Lower_covered_duplicate,False
+290,PH0073-CW,1044-PF-KH-FAIRHURST,Pursat,Cambodia: Pursat,Cambodia,12.372197,103.633575,2009,ERR713950,"PH0073-CW,PH0100-C",ESEA,88.43,True,Analysis_set,False
+317,PH0188-C,1044-PF-KH-FAIRHURST,Pursat,Cambodia: Pursat,Cambodia,12.372197,103.633575,2010,ERR023042,"PH0188-C,PH0311-CW,PH0317-C",ESEA,92.01,False,Lower_covered_duplicate,False
+318,PH0189-C,1044-PF-KH-FAIRHURST,Pursat,Cambodia: Pursat,Cambodia,12.372197,103.633575,2010,ERR023043,"PH0189-C,PH0312-C,PH0318-C",ESEA,87.71,False,Lower_covered_duplicate,False
+319,PH0190-C,1044-PF-KH-FAIRHURST,Pursat,Cambodia: Pursat,Cambodia,12.372197,103.633575,2010,ERR027119,"PH0190-C,PH0313-C,PH0319-C",ESEA,88.27,True,Analysis_set,False
+320,PH0309-C,1044-PF-KH-FAIRHURST,Pursat,Cambodia: Pursat,Cambodia,12.372197,103.633575,2010,ERR111729,"PH0309-C,PH0315-C",ESEA,86.49,False,Mixed_species,False
+321,PH0310-C,1044-PF-KH-FAIRHURST,Ratanakiri,Cambodia: Ratanakiri,Cambodia,13.86208,107.09701499999998,2010,ERR152410,"PH0310-C,PH0316-C",ESEA,89.66,True,Analysis_set,False
+322,PH0311-CW,1044-PF-KH-FAIRHURST,Pursat,Cambodia: Pursat,Cambodia,12.372197,103.633575,2010,ERR713955,"PH0188-C,PH0311-CW,PH0317-C",ESEA,92.34,True,Analysis_set,False
+323,PH0312-C,1044-PF-KH-FAIRHURST,Pursat,Cambodia: Pursat,Cambodia,12.372197,103.633575,2010,ERR216477,"PH0189-C,PH0312-C,PH0318-C",ESEA,88.25,True,Analysis_set,False
+324,PH0313-C,1044-PF-KH-FAIRHURST,Pursat,Cambodia: Pursat,Cambodia,12.372197,103.633575,2010,ERR111730,"PH0190-C,PH0313-C,PH0319-C",ESEA,87.81,False,Lower_covered_duplicate,False
+325,PH0315-C,1044-PF-KH-FAIRHURST,Pursat,Cambodia: Pursat,Cambodia,12.372197,103.633575,2010,ERR054083,"PH0309-C,PH0315-C",ESEA,85.18,False,Lower_covered_duplicate,False
+326,PH0316-C,1044-PF-KH-FAIRHURST,Ratanakiri,Cambodia: Ratanakiri,Cambodia,13.86208,107.09701499999998,2010,ERR152411,"PH0310-C,PH0316-C",ESEA,89.35,False,Lower_covered_duplicate,False
+327,PH0317-C,1044-PF-KH-FAIRHURST,Pursat,Cambodia: Pursat,Cambodia,12.372197,103.633575,2010,ERR111731,"PH0188-C,PH0311-CW,PH0317-C",ESEA,91.55,False,Lower_covered_duplicate,False
+328,PH0318-C,1044-PF-KH-FAIRHURST,Pursat,Cambodia: Pursat,Cambodia,12.372197,103.633575,2010,ERR152412,"PH0189-C,PH0312-C,PH0318-C",ESEA,88.16,False,Lower_covered_duplicate,False
+329,PH0319-C,1044-PF-KH-FAIRHURST,Pursat,Cambodia: Pursat,Cambodia,12.372197,103.633575,2010,ERR111732,"PH0190-C,PH0313-C,PH0319-C",ESEA,88.06,False,Lower_covered_duplicate,False
+367,PJ0004-C,1157-PV-MULTI-PRICE,Papua Indonesia (returning traveller),Indonesia: Papua,Indonesia,-4.5,137.0,2010,ERR034096,"PJ0004-C,PJ0005-C,PJ0009-C",OCE,95.29,True,Analysis_set,True
+368,PJ0005-C,1157-PV-MULTI-PRICE,Papua Indonesia (returning traveller),Indonesia: Papua,Indonesia,-4.5,137.0,2010,ERR034097,"PJ0004-C,PJ0005-C,PJ0009-C",OCE,94.97,False,Lower_covered_duplicate,True
+369,PJ0006-C,1157-PV-MULTI-PRICE,Papua Indonesia (returning traveller),Indonesia: Papua,Indonesia,-4.5,137.0,2011,ERR054084,"PJ0006-C,PJ0006-CW",OCE,87.81,False,Lower_covered_duplicate,True
+370,PJ0006-CW,1157-PV-MULTI-PRICE,Papua Indonesia (returning traveller),Indonesia: Papua,Indonesia,-4.5,137.0,2011,ERR054085,"PJ0006-C,PJ0006-CW",OCE,89.41,True,Analysis_set,True
+371,PJ0007-C,1157-PV-MULTI-PRICE,Papua Indonesia (returning traveller),Indonesia: Papua,Indonesia,-4.5,137.0,2012,ERR337624,"PJ0007-C,PJ0010-C",OCE,90.78,True,Analysis_set,True
+372,PJ0008-C,1157-PV-MULTI-PRICE,Papua Indonesia (returning traveller),Indonesia: Papua,Indonesia,-4.5,137.0,2013,ERR337627,"PJ0008-C,PJ0165-C",OCE,91.65,True,Analysis_set,True
+373,PJ0009-C,1157-PV-MULTI-PRICE,Papua Indonesia (returning traveller),Indonesia: Papua,Indonesia,-4.5,137.0,2010,ERR337630,"PJ0004-C,PJ0005-C,PJ0009-C",OCE,88.69,False,Lower_covered_duplicate,True
+374,PJ0010-C,1157-PV-MULTI-PRICE,Papua Indonesia (returning traveller),Indonesia: Papua,Indonesia,-4.5,137.0,2012,ERR337598,"PJ0007-C,PJ0010-C",OCE,90.54,False,Lower_covered_duplicate,True
+376,PJ0012-CW,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0012-CW,PJ0012-Cx",OCE,85.16,False,Lower_covered_duplicate,False
+377,PJ0012-Cx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0012-CW,PJ0012-Cx",OCE,85.93,True,Analysis_set,False
+397,PJ0034-CWx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0034-CWx,PJ0035-C",OCE,85.61,False,Lower_covered_duplicate,False
+398,PJ0035-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0034-CWx,PJ0035-C",OCE,87.84,True,Analysis_set,False
+405,PJ0043-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0043-C,PJ0311-C",OCE,88.49,True,Analysis_set,False
+406,PJ0044-CW,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0044-CW,PJ0273-C",OCE,88.51,False,Lower_covered_duplicate,False
+407,PJ0046-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0046-C,PJ0274-C",OCE,88.99,True,Analysis_set,False
+408,PJ0046-Cx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0046-Cx,PJ0047-C,PJ0275-C",OCE,90.11,False,Lower_covered_duplicate,False
+409,PJ0047-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0046-Cx,PJ0047-C,PJ0275-C",OCE,90.33,True,Analysis_set,False
+412,PJ0052-CW,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0052-CW,PJ0277-C",OCE,89.03,False,Lower_covered_duplicate,False
+413,PJ0054-CW,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0054-CW,PJ0279-C",OCE,87.85,False,Lower_covered_duplicate,False
+414,PJ0054-Cx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0054-Cx,PJ0055-C,PJ0280-C",OCE,87.66,False,Lower_covered_duplicate,False
+415,PJ0055-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0054-Cx,PJ0055-C,PJ0280-C",OCE,87.93,True,Analysis_set,False
+417,PJ0057-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0057-C,PJ0313-C",OCE,90.42,True,Analysis_set,False
+418,PJ0058-CW,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0058-CW,PJ0281-C",OCE,89.2,True,Analysis_set,False
+419,PJ0059-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0059-C,PJ0282-C",OCE,89.72,True,Analysis_set,False
+423,PJ0063-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0063-C,PJ0283-C",OCE,89.42,True,Analysis_set,False
+424,PJ0065-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0065-C,PJ0285-C",OCE,87.53,False,Lower_covered_duplicate,False
+427,PJ0067-CWx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0067-CWx,PJ0068-C",OCE,87.52,False,Lower_covered_duplicate,False
+428,PJ0068-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0067-CWx,PJ0068-C",OCE,91.95,True,Analysis_set,False
+430,PJ0069-Cx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0069-Cx,PJ0070-CW,PJ0132-Cx,PJ0286-C",OCE,86.73,True,Analysis_set,False
+431,PJ0070-CW,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0069-Cx,PJ0070-CW,PJ0132-Cx,PJ0286-C",OCE,85.52,False,Lower_covered_duplicate,False
+432,PJ0070-Cx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0070-Cx,PJ0071-C,PJ0287-C",OCE,88.56,False,Lower_covered_duplicate,False
+433,PJ0071-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0070-Cx,PJ0071-C,PJ0287-C",OCE,88.71,True,Analysis_set,False
+436,PJ0074-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0074-C,PJ0288-C",OCE,86.89,True,Analysis_set,False
+438,PJ0075-Cx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0075-Cx,PJ0076-CW",OCE,79.08,True,Analysis_set,False
+439,PJ0076-CW,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0075-Cx,PJ0076-CW",OCE,54.86,False,Lower_covered_duplicate,False
+442,PJ0079-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0079-C,PJ0289-C",OCE,89.89,True,Analysis_set,False
+446,PJ0083-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0083-C,PJ0290-C",OCE,88.26,False,Mixed_species,False
+448,PJ0084-Cx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0084-Cx,PJ0085-C",OCE,88.4,False,Lower_covered_duplicate,False
+449,PJ0085-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0084-Cx,PJ0085-C",OCE,89.67,True,Analysis_set,False
+452,PJ0088-Cx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0088-Cx,PJ0089-CW",OCE,91.74,True,Analysis_set,False
+453,PJ0089-CW,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0088-Cx,PJ0089-CW",OCE,89.67,False,Lower_covered_duplicate,False
+455,PJ0090-Cx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0090-Cx,PJ0091-CW,PJ0312-C",OCE,86.37,False,Lower_covered_duplicate,False
+456,PJ0091-CW,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0090-Cx,PJ0091-CW,PJ0312-C",OCE,83.53,False,Lower_covered_duplicate,False
+468,PJ0103-CWx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0103-CWx,PJ0104-CW",OCE,57.04,False,Lower_covered_duplicate,False
+469,PJ0104-CW,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0103-CWx,PJ0104-CW",OCE,58.38,True,Analysis_set,False
+478,PJ0117-Cx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2013,,"PJ0117-Cx,PJ0118-C",OCE,87.88,True,Analysis_set,False
+485,PJ0124-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2013,,"PJ0124-C,PJ0310-C",OCE,85.24,False,Unverified_metadata,False
+488,PJ0127-CW,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2013,,"PJ0127-CW,PJ0291-C",OCE,85.7,True,Analysis_set,False
+489,PJ0127-Cx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2013,,"PJ0127-Cx,PJ0128-C",OCE,87.57,False,Lower_covered_duplicate,False
+490,PJ0128-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2013,,"PJ0127-Cx,PJ0128-C",OCE,88.92,True,Analysis_set,False
+491,PJ0132-Cx,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0069-Cx,PJ0070-CW,PJ0132-Cx,PJ0286-C",OCE,86.55,False,Lower_covered_duplicate,False
+493,PJ0166-C,1157-PV-MULTI-PRICE,Papua Indonesia (returning traveller),Indonesia: Papua,Indonesia,-4.5,137.0,2013,ERR527360,"PJ0166-C,PJ0167-C",OCE,79.95,False,Lower_covered_duplicate,True
+494,PJ0167-C,1157-PV-MULTI-PRICE,Papua Indonesia (returning traveller),Indonesia: Papua,Indonesia,-4.5,137.0,2013,ERR527373,"PJ0166-C,PJ0167-C",OCE,88.05,True,Analysis_set,True
+495,PJ0273-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0044-CW,PJ0273-C",OCE,88.69,True,Analysis_set,False
+496,PJ0274-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0046-C,PJ0274-C",OCE,88.33,False,Lower_covered_duplicate,False
+497,PJ0275-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0046-Cx,PJ0047-C,PJ0275-C",OCE,90.14,False,Lower_covered_duplicate,False
+499,PJ0277-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0052-CW,PJ0277-C",OCE,89.24,True,Analysis_set,False
+501,PJ0279-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0054-CW,PJ0279-C",OCE,88.56,True,Analysis_set,False
+502,PJ0280-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0054-Cx,PJ0055-C,PJ0280-C",OCE,87.68,False,Lower_covered_duplicate,False
+503,PJ0281-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0058-CW,PJ0281-C",OCE,88.69,False,Lower_covered_duplicate,False
+504,PJ0282-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0059-C,PJ0282-C",OCE,89.17,False,Lower_covered_duplicate,False
+505,PJ0283-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0063-C,PJ0283-C",OCE,89.08,False,Lower_covered_duplicate,False
+507,PJ0285-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0065-C,PJ0285-C",OCE,88.0,True,Analysis_set,False
+508,PJ0286-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0069-Cx,PJ0070-CW,PJ0132-Cx,PJ0286-C",OCE,86.67,False,Lower_covered_duplicate,False
+509,PJ0287-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0070-Cx,PJ0071-C,PJ0287-C",OCE,88.5,False,Lower_covered_duplicate,False
+510,PJ0288-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0074-C,PJ0288-C",OCE,86.16,False,Lower_covered_duplicate,False
+511,PJ0289-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0079-C,PJ0289-C",OCE,89.55,False,Lower_covered_duplicate,False
+512,PJ0290-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0083-C,PJ0290-C",OCE,86.98,False,Lower_covered_duplicate,False
+513,PJ0291-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2013,,"PJ0127-CW,PJ0291-C",OCE,85.14,False,Lower_covered_duplicate,False
+531,PJ0310-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2013,,"PJ0124-C,PJ0310-C",OCE,89.14,False,Unverified_metadata,False
+532,PJ0311-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0043-C,PJ0311-C",OCE,87.87,False,Lower_covered_duplicate,False
+533,PJ0312-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2011,,"PJ0090-Cx,PJ0091-CW,PJ0312-C",OCE,86.95,True,Analysis_set,False
+534,PJ0313-C,1154-PV-TH-PRICE,Papua Indonesia,Indonesia: Papua,Indonesia,-4.5,137.0,2012,,"PJ0057-C,PJ0313-C",OCE,88.93,False,Lower_covered_duplicate,False
+552,PN0065-C,1050-PV-PN-MUELLER,Madang,Papua New Guinea: Madang,Papua New Guinea,-5.231136,145.78714399999996,2008,ERR216469,"PN0065-C,PN0065-Cx",OCE,85.71,True,Analysis_set,False
+553,PN0065-Cx,1050-PV-PN-MUELLER,Madang,Papua New Guinea: Madang,Papua New Guinea,-5.231136,145.78714399999996,2008,ERR211563,"PN0065-C,PN0065-Cx",OCE,77.59,False,Lower_covered_duplicate,False
+555,PN0067-C,1050-PV-PN-MUELLER,Madang,Papua New Guinea: Madang,Papua New Guinea,-5.231136,145.78714399999996,2009,ERR713956,"PN0067-C,PN0067-Cx,PNG49",OCE,88.17,False,Unverified_metadata,False
+556,PN0067-Cx,1050-PV-PN-MUELLER,Madang,Papua New Guinea: Madang,Papua New Guinea,-5.231136,145.78714399999996,2009,ERR175552,"PN0067-C,PN0067-Cx,PNG49",OCE,86.56,False,Unverified_metadata,False
+557,PN0068-C,1050-PV-PN-MUELLER,Madang,Papua New Guinea: Madang,Papua New Guinea,-5.231136,145.78714399999996,2009,ERR021985,"PN0068-C,PN0068-Cx,PNG012",OCE,88.31,False,Unverified_metadata,False
+558,PN0068-Cx,1050-PV-PN-MUELLER,Madang,Papua New Guinea: Madang,Papua New Guinea,-5.231136,145.78714399999996,2009,ERR216474,"PN0068-C,PN0068-Cx,PNG012",OCE,79.19,False,Unverified_metadata,False
+569,PNG012,X0001-PV-MULTI-HUPALO2016,Madang,Papua New Guinea: Madang,Papua New Guinea,-5.231136,145.78714399999996,2009,SRR1759411,"PN0068-C,PN0068-Cx,PNG012",OCE,72.44,False,Unverified_metadata,False
+576,PNG076,X0001-PV-MULTI-HUPALO2016,Madang,Papua New Guinea: Madang,Papua New Guinea,-5.231136,145.78714399999996,2009,SRR1759594,"PN0092-CW,PNG076",OCE,75.31,True,Analysis_set,False
+580,PNG49,X0001-PV-MULTI-HUPALO2016,Madang,Papua New Guinea: Madang,Papua New Guinea,-5.231136,145.78714399999996,2009,SRR1759592,"PN0067-C,PN0067-Cx,PNG49",OCE,77.69,False,Unverified_metadata,False
+646,PS0002-CW,1047-PV-LK-KARUNAWEERA,Kataragama,Sri Lanka: Monaragala,Sri Lanka,6.9,81.1,2010,ERR054081,"PS0002-CW,PS0002-CWx",WAS,80.86,False,Lower_covered_duplicate,False
+647,PS0002-CWx,1047-PV-LK-KARUNAWEERA,Kataragama,Sri Lanka: Monaragala,Sri Lanka,6.9,81.1,2010,ERR713949,"PS0002-CW,PS0002-CWx",WAS,84.26,True,Analysis_set,False
+685,PX0001-C,1157-PV-MULTI-PRICE,Mumbai (returning traveller),India: Maharashtra,India,19.0,73.0,2011,ERR054086,"PX0001-C,PX0001-CW",WAS,50.07,False,Lower_covered_duplicate,True
+686,PX0001-CW,1157-PV-MULTI-PRICE,Mumbai (returning traveller),India: Maharashtra,India,19.0,73.0,2011,ERR054087,"PX0001-C,PX0001-CW",WAS,87.18,True,Analysis_set,True
+698,PY0021-C,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1138854,"PY0021-C,PY0022-C",MSEA,75.13,True,Analysis_set,False
+700,PY0023-C,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1138855,"PY0023-C,PY0023-CW",MSEA,88.34,True,Analysis_set,False
+701,PY0023-CW,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1475432,"PY0023-C,PY0023-CW",MSEA,88.24,False,Lower_covered_duplicate,False
+715,PY0044-C,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1138865,"PY0044-C,PY0044-CX",MSEA,88.75,False,Lower_covered_duplicate,False
+716,PY0044-CX,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1475454,"PY0044-C,PY0044-CX",MSEA,88.86,True,Analysis_set,False
+734,PY0067-C,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1138879,"PY0067-C,PY0081-C",MSEA,88.41,False,Lower_covered_duplicate,False
+737,PY0072-C,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1138881,"PY0072-C,PY0082-C",MSEA,88.24,False,Lower_covered_duplicate,False
+743,PY0077-CW,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1475435,"PY0077-C,PY0077-CW",MSEA,76.44,True,Analysis_set,False
+744,PY0079-C,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1138887,"PY0062-C,PY0079-C",MSEA,88.27,True,Analysis_set,False
+745,PY0081-C,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1138888,"PY0067-C,PY0081-C",MSEA,88.57,True,Analysis_set,False
+746,PY0082-C,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1138889,"PY0072-C,PY0082-C",MSEA,88.48,True,Analysis_set,False
+754,PY0092-C,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1475396,"PY0092-C,PY0092-CW",MSEA,89.23,False,Lower_covered_duplicate,False
+755,PY0092-CW,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR2299659,"PY0092-C,PY0092-CW",MSEA,89.42,True,Analysis_set,False
+758,PY0096-C,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1475399,"PY0096-C,PY0096-CW",MSEA,86.56,True,Analysis_set,False
+763,PY0100-C,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1475419,"PY0100-C,PY0100-CW",MSEA,84.43,False,Lower_covered_duplicate,False
+764,PY0100-CW,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1475431,"PY0100-C,PY0100-CW",MSEA,85.81,True,Analysis_set,False
+773,PY0109-CWx,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2013,ERR2299657,"PY0109-C,PY0109-CWx,PY0109-Cx",MSEA,88.87,True,Analysis_set,False
+774,PY0109-Cx,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2013,ERR2299656,"PY0109-C,PY0109-CWx,PY0109-Cx",MSEA,88.71,False,Lower_covered_duplicate,False
+778,PY0115-C,1157-PV-MULTI-PRICE,Sabah,Malaysia: Sabah,Malaysia,6.0,117.0,2014,ERR1475421,"PY0115-C,PY0115-CW",MSEA,87.7,True,Analysis_set,False
+820,Peru3043_D0,X0001-PV-MULTI-HUPALO2016,Iquitos,Peru: Loreto,Peru,-3.75,-73.25,2011,"SRR1567949,SRR1568163","Peru3043_D0,Peru3043_D87,Peru3043_D106",LAM,60.31,False,Lower_covered_duplicate,False
+821,Peru3043_D106,X0001-PV-MULTI-HUPALO2016,Iquitos,Peru: Loreto,Peru,-3.75,-73.25,2011,"SRR1562614,SRR1568003","Peru3043_D0,Peru3043_D87,Peru3043_D106",LAM,81.77,True,Analysis_set,False
+822,Peru3043_D87,X0001-PV-MULTI-HUPALO2016,Iquitos,Peru: Loreto,Peru,-3.75,-73.25,2011,"SRR1562972,SRR1564685","Peru3043_D0,Peru3043_D87,Peru3043_D106",LAM,70.06,False,Lower_covered_duplicate,False
+826,Peru3270_D0,X0001-PV-MULTI-HUPALO2016,Iquitos,Peru: Loreto,Peru,-3.75,-73.25,2012,"SRR1562624,SRR1568036","Peru3270_D0,Peru3270_D43,Peru3270_D59",LAM,76.95,False,Lower_covered_duplicate,False
+827,Peru3270_D43,X0001-PV-MULTI-HUPALO2016,Iquitos,Peru: Loreto,Peru,-3.75,-73.25,2012,"SRR1562606,SRR1562931,SRR1564593,SRR1568168,SRR1568175","Peru3270_D0,Peru3270_D43,Peru3270_D59",LAM,78.23,True,Analysis_set,False
+1009,Salvador_1,X0001-PV-MULTI-HUPALO2016,El Salvador,El Salvador,El Salvador,13.47,-89.18,1971,SRR575089,"QH0001-CW,Salvador_1",LAM,80.42,True,Analysis_set,False
+1039,VVX00897,1157-PV-MULTI-PRICE,Batu,Ethiopia: Oromia,Ethiopia,7.933617,38.723728,2013,ERR2299536,"VVX00864,VVX00897",AF,81.37,True,Analysis_set,False
+1093,VVX01026,1157-PV-MULTI-PRICE,Krong Pa,Vietnam: Gia Lai,Vietnam,13.221819,108.682475,2015,ERR2299605,"VVX01026,VVX12145",ESEA,89.21,True,Analysis_set,False
+1112,VVX01078,1157-PV-MULTI-PRICE,Dak O,Vietnam: Binh Phuoc,Vietnam,12.047594,107.093178,2015,ERR2299624,"VVX01078,VVX12129",ESEA,87.91,True,Analysis_set,False
+1113,VVX01082,1157-PV-MULTI-PRICE,Dak O,Vietnam: Binh Phuoc,Vietnam,12.047594,107.093178,2015,ERR2299625,"VVX01082,VVX12133",ESEA,92.71,True,Analysis_set,False
+1153,VVX01162,1128-PV-MULTI-GSK,Manaus,Brazil: Amazonas,Brazil,-3.1190275,-60.021731,2016,ERR2309730,"VVX01162,VVX01163",LAM,54.66,True,Analysis_set,False
+1192,VVX01280,1128-PV-MULTI-GSK,Ho Chi Min,Vietnam: Ho Chi Minh,Vietnam,10.746903,106.676292,2015,ERR2309856,"VVX01280,VVX01281",ESEA,88.47,True,Analysis_set,False
+1206,VVX01301,1128-PV-MULTI-GSK,Bangkok,Thailand: Bangkokmetropolis,Thailand,13.7563309,100.501765,2014,ERR2300667,"VVX01301,VVX01302",unassigned,86.16,True,Unassigned_population,False
+1207,VVX01302,1128-PV-MULTI-GSK,Bangkok,Thailand: Bangkokmetropolis,Thailand,13.7563309,100.501765,2014,ERR2678965,"VVX01301,VVX01302",unassigned,80.56,False,Lower_covered_duplicate,False
+1208,VVX01303,1128-PV-MULTI-GSK,Bangkok,Thailand: Bangkokmetropolis,Thailand,13.7563309,100.501765,2014,ERR2678966,"VVX01303,VVX01304",unassigned,84.17,True,Unassigned_population,False
+1209,VVX01304,1128-PV-MULTI-GSK,Bangkok,Thailand: Bangkokmetropolis,Thailand,13.7563309,100.501765,2014,ERR2300670,"VVX01303,VVX01304",unassigned,79.14,False,Lower_covered_duplicate,False
+1210,VVX01306,1128-PV-MULTI-GSK,Bangkok,Thailand: Bangkokmetropolis,Thailand,13.7563309,100.501765,2014,ERR2300672,"VVX01306,VVX01307",unassigned,78.98,True,Unassigned_population,False
+1211,VVX01307,1128-PV-MULTI-GSK,Bangkok,Thailand: Bangkokmetropolis,Thailand,13.7563309,100.501765,2014,ERR2300682,"VVX01306,VVX01307",unassigned,78.18,False,Unverified_metadata,False
+1260,VVX01412,1128-PV-MULTI-GSK,Ho Chi Min,Vietnam: Ho Chi Minh,Vietnam,10.746903,106.676292,2016,ERR2309740,"VVX01412,VVX01413",ESEA,88.46,True,Analysis_set,False
+1262,VVX01414,1128-PV-MULTI-GSK,Ho Chi Min,Vietnam: Ho Chi Minh,Vietnam,10.746903,106.676292,2016,ERR2309741,"VVX01414,VVX01415",ESEA,88.61,True,Analysis_set,False
+1263,VVX01415,1128-PV-MULTI-GSK,Ho Chi Min,Vietnam: Ho Chi Minh,Vietnam,10.746903,106.676292,2016,ERR2309728,"VVX01414,VVX01415",ESEA,86.95,False,Lower_covered_duplicate,False
+1276,VVX01456,1128-PV-MULTI-GSK,Iquitos,Peru: Loreto,Peru,-3.75,-73.25,2016,ERR2309903,"VVX01456,VVX01457",LAM,55.65,True,Analysis_set,False
+1293,VVX01611,1128-PV-MULTI-GSK,Porto Velho,Brazil: Rondonia,Brazil,-8.761160499999999,-63.90043000000001,2015,ERR2678960,"VVX01611,VVX01612",LAM,87.63,False,Unverified_metadata,False
+1294,VVX01612,1128-PV-MULTI-GSK,Porto Velho,Brazil: Rondonia,Brazil,-8.761160499999999,-63.90043000000001,2015,ERR2678961,"VVX01611,VVX01612",LAM,88.26,False,Unverified_metadata,False
+1308,VVX01636,1128-PV-MULTI-GSK,Bangkok,Thailand: Bangkokmetropolis,Thailand,13.7563309,100.501765,2015,ERR2300681,"VVX01635,VVX01636",unassigned,86.43,False,Unverified_metadata,False
+1311,VVX01640,1128-PV-MULTI-GSK,Bangkok,Thailand: Bangkokmetropolis,Thailand,13.7563309,100.501765,2015,ERR2300695,"VVX01639,VVX01640",unassigned,87.94,False,Unverified_metadata,False
+1318,VVX01650,1128-PV-MULTI-GSK,Bangkok,Thailand: Bangkokmetropolis,Thailand,13.7563309,100.501765,2015,ERR2309765,"VVX01650,VVX01651",unassigned,77.46,False,Lower_covered_duplicate,False
+1319,VVX01651,1128-PV-MULTI-GSK,Bangkok,Thailand: Bangkokmetropolis,Thailand,13.7563309,100.501765,2015,ERR2678968,"VVX01650,VVX01651",unassigned,89.72,False,Unverified_metadata,False
+1331,VVX01667,1128-PV-MULTI-GSK,Bangkok,Thailand: Bangkokmetropolis,Thailand,13.7563309,100.501765,2016,ERR2351944,"VVX01667,VVX01668",unassigned,88.04,True,Unassigned_population,False
+1332,VVX01668,1128-PV-MULTI-GSK,Bangkok,Thailand: Bangkokmetropolis,Thailand,13.7563309,100.501765,2016,ERR2678955,"VVX01667,VVX01668",unassigned,83.14,False,Lower_covered_duplicate,False
+1341,VVX01677,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309749,"VVX01677,VVX01678",ESEA,80.42,False,Lower_covered_duplicate,False
+1342,VVX01678,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309821,"VVX01677,VVX01678",ESEA,89.08,True,Analysis_set,False
+1344,VVX01680,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309752,"VVX01680,VVX01682",ESEA,89.02,True,Analysis_set,False
+1346,VVX01683,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309784,"VVX01683,VVX01684",ESEA,89.34,True,Analysis_set,False
+1348,VVX01685,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309753,"VVX01685,VVX01686,VVX01687",ESEA,89.95,True,Analysis_set,False
+1349,VVX01686,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309796,"VVX01685,VVX01686,VVX01687",ESEA,88.2,False,Lower_covered_duplicate,False
+1352,VVX01689,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309782,"VVX01689,VVX01690,VVX01691",ESEA,88.43,False,Lower_covered_duplicate,False
+1353,VVX01690,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309798,"VVX01689,VVX01690,VVX01691",ESEA,90.24,True,Analysis_set,False
+1357,VVX01694,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309800,"VVX01694,VVX01695",ESEA,88.26,True,Analysis_set,False
+1358,VVX01695,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309801,"VVX01694,VVX01695",ESEA,88.22,False,Lower_covered_duplicate,False
+1364,VVX01703,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2678978,"VVX01703,VVX01704",ESEA,91.04,True,Analysis_set,False
+1365,VVX01704,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309825,"VVX01703,VVX01704",ESEA,82.21,False,Lower_covered_duplicate,False
+1368,VVX01709,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309808,"VVX01709,VVX01710",ESEA,88.46,True,Analysis_set,False
+1369,VVX01710,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309809,"VVX01709,VVX01710",ESEA,88.3,False,Lower_covered_duplicate,False
+1371,VVX01712,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309811,"VVX01712,VVX01713",ESEA,52.92,False,Lower_covered_duplicate,False
+1372,VVX01713,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309812,"VVX01712,VVX01713",ESEA,62.57,True,Analysis_set,False
+1376,VVX01718,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309815,"VVX01718,VVX01719",ESEA,87.38,True,Analysis_set,False
+1377,VVX01719,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309827,"VVX01718,VVX01719",ESEA,51.46,False,Lower_covered_duplicate,False
+1385,VVX01731,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309833,"VVX01731,VVX01732,VVX01733,VVX01734",ESEA,81.08,False,Lower_covered_duplicate,False
+1386,VVX01732,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309834,"VVX01731,VVX01732,VVX01733,VVX01734",ESEA,88.58,True,Analysis_set,False
+1388,VVX01734,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309794,"VVX01731,VVX01732,VVX01733,VVX01734",ESEA,78.23,False,Lower_covered_duplicate,False
+1395,VVX01743,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309842,"VVX01743,VVX01744",ESEA,88.25,True,Analysis_set,False
+1396,VVX01744,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309792,"VVX01743,VVX01744",ESEA,85.29,False,Lower_covered_duplicate,False
+1398,VVX01747,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309843,"VVX01747,VVX01748",ESEA,84.56,True,Analysis_set,False
+1401,VVX01750,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309845,"VVX01750,VVX01751",ESEA,86.15,False,Lower_covered_duplicate,False
+1402,VVX01751,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2496660,"VVX01750,VVX01751",ESEA,88.64,True,Analysis_set,False
+1403,VVX01752,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309846,"VVX01752,VVX01753",ESEA,90.17,True,Analysis_set,False
+1404,VVX01753,1128-PV-MULTI-GSK,Oddar Meanchey,Cambodia: Oddar Meanchey,Cambodia,14.2,103.8,2015,ERR2309831,"VVX01752,VVX01753",ESEA,79.96,False,Lower_covered_duplicate,False
+1431,VVX01915,1128-PV-MULTI-GSK,Gondar,Ethiopia: Amhara,Ethiopia,11.4884227,37.548083,2016,ERR2351923,"VVX01915,VVX01986",AF,88.18,True,Analysis_set,False
+1436,VVX01924,1128-PV-MULTI-GSK,Jimma,Ethiopia: Oromia,Ethiopia,7.6833306,36.8513179,2016,ERR2351921,"VVX01922,VVX01923,VVX01924",AF,87.02,True,Analysis_set,False
+1438,VVX01926,1128-PV-MULTI-GSK,Jimma,Ethiopia: Oromia,Ethiopia,7.6833306,36.8513179,2016,ERR2300700,"VVX01925,VVX01926",AF,88.65,False,Unverified_metadata,False
+1445,VVX01945,1128-PV-MULTI-GSK,Jimma,Ethiopia: Oromia,Ethiopia,7.6833306,36.8513179,2016,ERR2351927,"VVX01944,VVX01945",AF,78.98,True,Analysis_set,False
+1446,VVX01946,1128-PV-MULTI-GSK,Jimma,Ethiopia: Oromia,Ethiopia,7.6833306,36.8513179,2016,ERR2678982,"VVX01946,VVX01947",AF,81.02,False,Unverified_metadata,False
+1447,VVX01947,1128-PV-MULTI-GSK,Jimma,Ethiopia: Oromia,Ethiopia,7.6833306,36.8513179,2016,ERR2351928,"VVX01946,VVX01947",AF,79.98,False,Lower_covered_duplicate,False
+1461,VVX01965,1128-PV-MULTI-GSK,Gondar,Ethiopia: Amhara,Ethiopia,11.4884227,37.548083,2016,ERR2678950,"VVX01965,VVX01966",AF,89.08,False,Lower_covered_duplicate,False
+1462,VVX01966,1128-PV-MULTI-GSK,Gondar,Ethiopia: Amhara,Ethiopia,11.4884227,37.548083,2016,ERR2309724,"VVX01965,VVX01966",AF,89.36,False,Unverified_metadata,False
+1467,VVX01971,1128-PV-MULTI-GSK,Gondar,Ethiopia: Amhara,Ethiopia,11.4884227,37.548083,2016,ERR2678949,"VVX01971,VVX01972",AF,89.21,True,Analysis_set,False
+1468,VVX01972,1128-PV-MULTI-GSK,Gondar,Ethiopia: Amhara,Ethiopia,11.4884227,37.548083,2016,ERR2678964,"VVX01971,VVX01972",AF,87.24,False,Unverified_metadata,False
+1469,VVX01973,1128-PV-MULTI-GSK,Gondar,Ethiopia: Amhara,Ethiopia,11.4884227,37.548083,2016,ERR2351919,"VVX01973,VVX01974",AF,90.46,True,Analysis_set,False
+1470,VVX01974,1128-PV-MULTI-GSK,Gondar,Ethiopia: Amhara,Ethiopia,11.4884227,37.548083,2016,ERR2309710,"VVX01973,VVX01974",AF,86.57,False,Unverified_metadata,False
+1677,VVX11824,1157-PV-MULTI-PRICE,Jalalabad,Afghanistan: Nangarhar,Afghanistan,34.4344,70.4612,2015,ERR2351751,"VVX11824,VVX11926",WAS,88.58,True,Analysis_set,False
+1735,VVX11916,1157-PV-MULTI-PRICE,Jalalabad,Afghanistan: Nangarhar,Afghanistan,34.4344,70.4612,2015,ERR2351846,"VVX11752,VVX11916",WAS,68.72,True,Analysis_set,False
+1736,VVX11917,1157-PV-MULTI-PRICE,Jalalabad,Afghanistan: Nangarhar,Afghanistan,34.4344,70.4612,2015,ERR2351847,"VVX11756,VVX11917",WAS,73.01,True,Analysis_set,False
+1738,VVX11920,1157-PV-MULTI-PRICE,Jalalabad,Afghanistan: Nangarhar,Afghanistan,34.4344,70.4612,2015,ERR2351849,"VVX11788,VVX11919,VVX11920",WAS,82.04,True,Analysis_set,False
+1743,VVX11926,1157-PV-MULTI-PRICE,Jalalabad,Afghanistan: Nangarhar,Afghanistan,34.4344,70.4612,2015,ERR2351854,"VVX11824,VVX11926",WAS,85.16,False,Lower_covered_duplicate,False
+1828,VVX12027,1157-PV-MULTI-PRICE,Laghman,Afghanistan: Laghman,Afghanistan,34.689117,70.146736,2014,ERR2309638,"VVX11931,VVX12027",WAS,76.86,True,Analysis_set,False
+1841,VVX12042,1157-PV-MULTI-PRICE,Laghman,Afghanistan: Laghman,Afghanistan,34.689117,70.146736,2016,ERR2309651,"VVX11990,VVX12042",WAS,68.4,True,Analysis_set,False
+1852,VVX12078,1157-PV-MULTI-PRICE,Krong Pa,Vietnam: Gia Lai,Vietnam,13.221819,108.682475,2016,ERR2309662,"VVX12078,VVX12150,VVX12151",ESEA,89.62,False,Lower_covered_duplicate,False
+1870,VVX12129,1157-PV-MULTI-PRICE,Dak O,Vietnam: Binh Phuoc,Vietnam,12.047594,107.093178,2015,ERR2309680,"VVX01078,VVX12129",ESEA,73.62,False,Lower_covered_duplicate,False
+1874,VVX12145,1157-PV-MULTI-PRICE,Krong Pa,Vietnam: Gia Lai,Vietnam,13.221819,108.682475,2015,ERR2309684,"VVX01026,VVX12145",ESEA,87.19,False,Lower_covered_duplicate,False
+1875,VVX12150,1157-PV-MULTI-PRICE,Krong Pa,Vietnam: Gia Lai,Vietnam,13.221819,108.682475,2016,ERR2309685,"VVX12078,VVX12150,VVX12151",ESEA,86.52,False,Lower_covered_duplicate,False
+1876,VVX12151,1157-PV-MULTI-PRICE,Krong Pa,Vietnam: Gia Lai,Vietnam,13.221819,108.682475,2016,ERR2309686,"VVX12078,VVX12150,VVX12151",ESEA,89.89,True,Analysis_set,False
+1883,india_C0924_Day_0,X0001-PV-MULTI-HUPALO2016,Chennai,India: Tamil Nadu,India,13.1,80.2,2013,SRR1740345,"india_C0924_Day_0,india_C0924_Day_2",WAS,74.7,True,Analysis_set,False
